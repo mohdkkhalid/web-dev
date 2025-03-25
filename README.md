@@ -2,5 +2,6 @@
 My fist website
 <br>
 <h2>
-Author- Mohd khalid
+Author- Mohd (khalid)
 </h2>
+git 
